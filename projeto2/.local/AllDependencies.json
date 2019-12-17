@@ -1609,9 +1609,9 @@
     "restore": {
       "projectUniqueName": "projeto2",
       "projectName": "projeto2",
-      "projectPath": "C:\\Users\\will_\\Documents\\testegit\\projeto2\\.local",
+      "projectPath": "C:\\Users\\will_\\Documents\\testegit\\projetos\\projeto2\\.local",
       "packagesPath": "C:\\Users\\will_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\will_\\Documents\\testegit\\projeto2\\.local"
+      "outputPath": "C:\\Users\\will_\\Documents\\testegit\\projetos\\projeto2\\.local"
     },
     "frameworks": {
       "net461": {
